@@ -1,0 +1,11 @@
+title: Polished Presence Workwear Blog
+description: Practical workwear advice for newly promoted managers and directors.
+url: "https://blog.polishedpresenceworkwear.com"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+header_pages:
+  - about.md
