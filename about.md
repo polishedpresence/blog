@@ -1,0 +1,15 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Hi, I'm Maero Keeley, the founder of [Polished Presence Workwear](https://polishedpresenceworkwear.com).
+
+Before starting Polished Presence Workwear, I worked as an executive assistant, sitting beside executives day in and day out. That close-up view of leadership taught me how much the right workwear can quietly support the person wearing it.
+
+Today I help newly promoted managers and directors look and feel ready for their new roles. My two-hour virtual workwear styling session is $175.
+
+Not sure if it's the right fit? [Book a free 15-minute consult](https://calendly.com/maero-keeley/15min) and we'll talk about your new role, with no pressure at all.
+
+Learn more on my main site: [polishedpresenceworkwear.com](https://polishedpresenceworkwear.com).
