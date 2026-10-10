@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Maero Keeley, the founder of [Polished Presence Workwear](https://polishedpresenceworkwear.com).
+Hi, I’m Maero, the founder of Polished Presence Workwear.
 
-I work as an executive assistant, so I'm in the room with executives day in and day out. That close-up view of leadership shows me how much the right workwear can quietly support the person wearing it.
+I’m a workwear stylist, and I help managers, directors, and executives make better use of the clothes they already own. Through virtual styling, I create polished office outfits that work for their role, personal style, and everyday work life.
 
-I also help busy managers, directors and executives who don't have time to figure out what to wear look put together without the guesswork. My two-hour virtual workwear styling session is $175.
+I created this blog to share practical workwear advice, outfit ideas, and simple ways to style the clothes you already have. Whether you’re figuring out what to wear with black trousers, how to style a blazer, or how to look more put together at work, you’ll find ideas you can actually use.
 
-Not sure if it's the right fit? [Book a free 15-minute consult](https://calendly.com/maero-keeley/15min) and we'll talk about your work week and what you need, no pressure at all.
+## Want help with your own wardrobe?
 
-Learn more on my main site: [polishedpresenceworkwear.com](https://polishedpresenceworkwear.com).
+I offer a two-hour virtual workwear styling session for $175, where we go through your existing wardrobe and create polished outfits you can repeat.
+
+[Book a free 15-minute consultation](https://calendly.com/maero-keeley/15min) to see how I can help.
+
+Visit [Polished Presence Workwear](https://polishedpresenceworkwear.com) to learn more.
