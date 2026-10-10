@@ -10,6 +10,6 @@ I work as an executive assistant, so I'm in the room with executives day in and 
 
 I also help busy managers, directors and executives who don't have time to figure out what to wear look put together without the guesswork. My two-hour virtual workwear styling session is $175.
 
-Not sure if it's the right fit? [Book a free 15-minute consult](https://calendly.com/maero-keeley/15min) and we'll talk about your new role, with no pressure at all.
+Not sure if it's the right fit? [Book a free 15-minute consult](https://calendly.com/maero-keeley/15min) and we'll talk about your work week and what you need, no pressure at all.
 
 Learn more on my main site: [polishedpresenceworkwear.com](https://polishedpresenceworkwear.com).
