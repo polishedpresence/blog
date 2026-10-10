@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Practical, real-world workwear advice for newly promoted managers and directors, so you can look and feel ready for your new role.
+Simple, no-fuss workwear advice for busy managers, directors and executives who don't have time to figure out what goes with what.
