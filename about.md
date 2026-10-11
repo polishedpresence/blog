@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I’m Maero, the founder of Polished Presence Workwear.
 
-I’m a workwear stylist, and I help managers, directors, and executives make better use of the clothes they already own. Through virtual styling, I create polished office outfits that work for their role, personal style, and everyday work life.
+I’m a personal stylist, and I help managers, directors, and executives make better use of the clothes they already own. Through virtual styling, I create polished office outfits that work for their role, personal style, and everyday work life.
 
 I created this blog to share practical workwear advice, outfit ideas, and simple ways to style the clothes you already have. Whether you’re figuring out what to wear with black trousers, how to style a blazer, or how to look more put together at work, you’ll find ideas you can actually use.
 
