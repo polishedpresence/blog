@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Simple, no-fuss workwear advice for busy managers, directors and executives who don't have time to figure out what goes with what.
+Simple, no-fuss workwear advice for managers, directors and executives who want help putting together polished outfits for the office.
